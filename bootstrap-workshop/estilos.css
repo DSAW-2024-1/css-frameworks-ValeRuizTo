@@ -1,0 +1,92 @@
+.bg-blue {
+  padding: 2rem;
+  background: rgb(103,67,255);
+  background: linear-gradient(180deg, rgba(103,67,255,1) 1%, rgba(83,58,246,1) 36%, rgba(73,54,242,1) 55%, rgba(51,45,233,1) 100%);  
+  border-radius: 30px; 
+  color: white;
+  height: 25rem;
+}
+.bg-pink{
+  background-color: rgba(255,246,245,255);
+  color:rgb(255,85,85);
+}
+.bg-yellow
+{
+  background-color: rgba(255,251,242,255);
+  color: rgb(255,178,30);
+}
+.bg-green
+{
+  background-color: rgba(242,251,250,255);
+  color: rgb(0,187,143);
+}
+.bg-baby-blue
+{
+  background-color: rgba(243,243,253,255);
+  color:rgb(17,37,214);
+}
+.rounded-circle
+{
+  background: rgb(75,34,200);
+  background: linear-gradient(180deg, rgba(75,34,200,1) 1%, rgba(70,42,215,1) 36%, rgba(67,46,225,1) 55%, rgba(71,52,240,1) 100%);width: 150px; 
+height: 150px;
+margin: 15px;
+}
+
+.col-md
+{
+height: 100vh;
+}
+.contenedor1
+{
+font-size: auto;
+margin-bottom: 15px;
+  p
+{
+  font-weight:400;
+  color: rgb(212, 211, 211);
+}
+h1 
+{
+  font-weight: 700;
+  font-size: 3rem;
+  margin-bottom: 0px;
+}
+
+}
+.contenedor2
+{
+  font-size: 1rem;
+  margin-bottom: 10px;
+.col 
+{
+  margin-bottom: 15px;
+}
+img 
+{
+  margin-right: 10px;
+}
+.valor
+{
+  color:rgba(59,67,88,255);
+  font-weight: bold;
+}
+
+span
+{
+  color:rgb(171,166,163);
+  font-weight: lighter;
+}
+}
+.btn.btn-secondary{
+width: 100%;
+padding: 15px; /* Añade espacio en la parte superior del botón */
+background-color: rgba(48,59,89,255);
+border-radius: 75px; 
+}
+@media (max-width: 767.98px) {
+  .bg-blue {
+    border-radius: 0px 0px 30px 30px;}
+
+}
+
