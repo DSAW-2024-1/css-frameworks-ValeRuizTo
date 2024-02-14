@@ -22,7 +22,9 @@ Este proyecto consiste en resolver un reto de HTML y CSS dos veces, una utilizan
 
 ## Link de la Pagina Web
 
-[link de la pagina](https://dsaw-2024-1.github.io/responsive-design-101-ValeRuizTo/)
+[link de la pagina](https://dsaw-2024-1.github.io/css-frameworks-ValeRuizTo/)
+
+https://dsaw-2024-1.github.io/css-frameworks-ValeRuizTo/
 
 ## Solucion con Bootstrap
 **Mobile Portrait (320px X 480px)**
