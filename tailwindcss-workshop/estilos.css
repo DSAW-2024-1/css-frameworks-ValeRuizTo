@@ -1,9 +1,7 @@
 .contenedorprincipal
 {
    box-shadow: 10px 10px 10px rgba(84, 82, 82, 0.1); /* Agrega una sombra en la esquina inferior derecha */
-    border-radius: 30px; 
-
-
+   border-radius: 30px; 
 }
 .bg-blue {
   padding: 2rem;
@@ -32,23 +30,19 @@
   background-color: rgba(243,243,253,255);
   color:rgb(17,37,214);
 }
-.rounded-circle
+.rounded-full
 {
   background: rgb(75,34,200);
   background: linear-gradient(180deg, rgba(75,34,200,1) 1%, rgba(70,42,215,1) 36%, rgba(67,46,225,1) 55%, rgba(71,52,240,1) 100%);width: 150px; 
-height: 150px;
-margin: 15px;
-}
-
-.col-md
-{
-height: 100vh;
+    height: 140px;
+    margin: 10px;
 }
 
 .contenedor1
 {
 font-size: auto;
-margin-bottom: 15px;
+margin-left:20px;
+
   p
 {
   font-weight:400;
@@ -58,18 +52,17 @@ h1
 {
   font-weight: 700;
   font-size: 3rem;
-  margin-bottom: 0px;
 }
-
+h2
+{
+    font-weight: 500;
+    margin-bottom: 10px;
+}
 }
 .contenedor2
 {
   font-size: 1rem;
-  margin-bottom: 10px;
-.col 
-{
-  margin-bottom: 15px;
-}
+
 img 
 {
   margin-right: 10px;
@@ -78,6 +71,7 @@ img
 {
   color:rgba(59,67,88,255);
   font-weight: bold;
+  margin-bottom: 20px;
 }
 
 span
@@ -86,14 +80,14 @@ span
   font-weight: lighter;
 }
 }
-
 .btn.btn-secondary{
 width: 100%;
 padding: 15px; /* Añade espacio en la parte superior del botón */
 background-color: rgba(48,59,89,255);
 border-radius: 75px; 
-}
+color: white;
 
+}
 @media (max-width: 767.98px) {
   .bg-blue {
     border-radius: 0px 0px 30px 30px;}
