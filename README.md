@@ -24,6 +24,24 @@ Este proyecto consiste en resolver un reto de HTML y CSS dos veces, una utilizan
 
 [link de la pagina](https://dsaw-2024-1.github.io/responsive-design-101-ValeRuizTo/)
 
+## Solucion con Bootstrap
+**Mobile Portrait (320px X 480px)**
+
+![Imagen 1](./assets/images/tailwindcel.png) 
+
+
+**Tablet portrait (768px x 1024px)**
+
+![Imagen 2](./assets/images/tailwindTablet.png) 
+
+**Desktop(1024px)**
+
+![Imagen 3](./assets/images/tailwinddesktop.png) 
+
+## Link de la Pagina Web
+
+[link de la pagina](https://dsaw-2024-1.github.io/responsive-design-101-ValeRuizTo/)
+
 
 
 
