@@ -40,9 +40,6 @@ https://dsaw-2024-1.github.io/css-frameworks-ValeRuizTo/
 
 ![Imagen 3](./assets/images/tailwinddesktop.png) 
 
-## Link de la Pagina Web
-
-[link de la pagina](https://dsaw-2024-1.github.io/responsive-design-101-ValeRuizTo/)
 
 
 
