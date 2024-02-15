@@ -26,7 +26,7 @@ Este proyecto consiste en resolver un reto de HTML y CSS dos veces, una utilizan
 
 https://dsaw-2024-1.github.io/css-frameworks-ValeRuizTo/
 
-## Solucion con Bootstrap
+## Solucion con Tailwind
 **Mobile Portrait (320px X 480px)**
 
 ![Imagen 1](./assets/images/tailwindcel.png) 
